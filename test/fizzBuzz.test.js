@@ -1,5 +1,6 @@
 const { expect } = require("@jest/globals");
-import { FizzBuzz } from "../src/FizzBuzz";
+import { FizzBuzz } from "../index.js";
+// import {index} from "../index.js"
 
 /**
  * CASOS DE PRUEBA
